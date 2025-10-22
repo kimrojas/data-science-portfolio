@@ -1,4 +1,4 @@
-# My Book
+# dsp
 
 This cookiecutter creates a simple boilerplate for a Jupyter Book.
 
@@ -6,7 +6,7 @@ This cookiecutter creates a simple boilerplate for a Jupyter Book.
 
 ### Building the book
 
-If you'd like to develop and/or build the My Book book, you should:
+If you'd like to develop and/or build the dsp book, you should:
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
